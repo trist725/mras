@@ -1,0 +1,3 @@
+RunningMode: debug          #运行模式，debug, release, test
+ServeAddr: "[::]:7777"      #服务监听地址
+MaxSelfPingTimes: 10        #最大ping自检次数
